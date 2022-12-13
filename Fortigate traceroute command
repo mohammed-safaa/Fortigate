@@ -1,0 +1,6 @@
+execute ping 8.8.8.8
+
+execute traceroute 8.8.8.8
+
+execute traceroute youtube.com
+
